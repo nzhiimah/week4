@@ -71,7 +71,7 @@ From the output, we can identify:
 2. clicked the **Choose File** button
 3. choose computer.jpg from the provided ZIP file 
 4. clicked the **EXTRACT** button
-5. reviewed the results shown on the left side
+5. reviewed the results displayed on the left side
 
 **Result Found**
 - **Error** ! Sorry :( 
@@ -79,6 +79,10 @@ From the output, we can identify:
 
 <img width="455" height="169" alt="Screenshot 2026-04-01 150111" src="https://github.com/user-attachments/assets/7840febc-dcbb-4122-9771-b9ecd046005c" />
 
+**Analysis** 
 
-
+- No readable strings were successfully extracted from the file.
+- The file may not contain embedded text data.
+- The image could contain only binary image data without hidden readable content.
+- This result helps confirm that no obvious text-based evidence is present.
 
