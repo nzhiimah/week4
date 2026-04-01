@@ -45,14 +45,20 @@ From the output, we can identify:
 3. choose computer.jpg from the provided ZIP file
 4. reviewed the file information & data inspector
 
-**Metadata Found**
-- **File Type:** JPEG
-- **File Name:** phpqRmOa5
-- **MIME Type:** image/jpeg
-- **Primary Platform:** Apple Computer Inc.
-- **Comment:** THIS IS THE HIDDEN FLAG
-- **Image Size:** 640x425
+**Data Inspector Findings**
+- **Offset:** 00000000
+- **Hex Value:** FF D8 FF
+- **UNIX 31-bit DateTime:** 2089-08-14 13:13:35 UTC
+- **File Size:** 588,975 bytes (576 KiB) 
 
+**Analysis** 
+
+- The hex values show the raw binary content of the file.
+- The file signature confirms that it is a valid JPEG image.
+- The Data Inspector helps identify hidden text or suspicious data inside the file.
+- This method is useful for **digital forensics and file verification.**
+
+---
 
 
 
