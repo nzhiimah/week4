@@ -79,6 +79,7 @@ From the output, we can identify:
 
 <img width="455" height="169" alt="Screenshot 2026-04-01 150111" src="https://github.com/user-attachments/assets/7840febc-dcbb-4122-9771-b9ecd046005c" />
 
+
 **Analysis** 
 
 - No readable strings were successfully extracted from the file.
