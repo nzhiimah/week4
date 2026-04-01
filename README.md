@@ -4,3 +4,4 @@
 1. exitool (ocean.jpg)
 -----------------------
 
+link : https://exif.tools/
