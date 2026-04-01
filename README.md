@@ -1,9 +1,12 @@
 # week4 - METADATA
-
 ---
-1. exitool (ocean.jpg)
+Tool : exitool (ocean.jpg)
+-
 
 ``
 link : https://exif.tools/
 ``
----
+
+**Steps Performed :**
+
+1. opened the link provided
