@@ -1,9 +1,8 @@
 # week4 - Metadata Analysis Lab
 
-
-|Tool Used | File       |Link                |
-|----------|----------- |-----------------   |
-|exiftool  | ocean.jpg  |https://exif.tools/ |
+1.  |Tool Used | File       |Link                |
+    |----------|----------- |-----------------   |
+    |exiftool  | ocean.jpg  |https://exif.tools/ |
 
 
 **Steps Performed :**
@@ -31,4 +30,33 @@ From the output, we can identify:
 - MIME type confirms it is an image file
 - the **comment field contains the hidden flag** 
 - information is useful in **digital forensics and file verification**
+
+---
+
+2.  |Tool Used | File          |Link                |
+    |----------|-----------    |-----------------   |
+    |Hexeditor | computer.jpg  |https://hexed.it/   |
+
+
+**Steps Performed :**
+
+1. opened the link provided
+2. clicked the **Open File** button
+3. choose computer.jpg from the provided ZIP file
+4. reviewed the file information & data inspector
+
+**Metadata Found**
+- **File Type:** JPEG
+- **File Name:** phpqRmOa5
+- **MIME Type:** image/jpeg
+- **Primary Platform:** Apple Computer Inc.
+- **Comment:** THIS IS THE HIDDEN FLAG
+- **Image Size:** 640x425
+
+
+
+
+
+
+
 
