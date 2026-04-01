@@ -60,8 +60,24 @@ From the output, we can identify:
 
 ---
 
+3.  |Tool Used | File          |Link                                   |
+    |----------|-----------    |-----------------                      |
+    |strings   | computer.jpg  | https://www.dcode.fr/strings-extractor|
 
 
+**Steps Performed :**
+
+1. go to the **STRINGS EXTRACTOR** section
+2. clicked the **Choose File** button
+3. choose computer.jpg from the provided ZIP file 
+4. clicked the **EXTRACT** button
+5. reviewed the results shown on the left side
+
+**Result Found**
+- **Error** ! Sorry :( 
+- **TEXT** : EMPTY/INVALID
+
+<img width="455" height="169" alt="Screenshot 2026-04-01 150111" src="https://github.com/user-attachments/assets/7840febc-dcbb-4122-9771-b9ecd046005c" />
 
 
 
