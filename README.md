@@ -1,7 +1,9 @@
-# week4 - METADATA
+# week4 - Metadata Analysis Lab
 
-Tool : exitool (ocean.jpg)
--
+
+|Tool Used | File       |
+|----------|----------- |
+|exiftool  | ocean.jpg  |
 
 ``
 link : https://exif.tools/
